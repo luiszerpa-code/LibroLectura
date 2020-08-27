@@ -1,0 +1,6 @@
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\Guadalupe\Libro\bin\Debug\Libro.dll
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\Guadalupe\Libro\bin\Debug\Libro.pdb
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\Guadalupe\Libro\obj\Debug\Libro.csprojAssemblyReference.cache
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\Guadalupe\Libro\obj\Debug\Libro.csproj.CoreCompileInputs.cache
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\Guadalupe\Libro\obj\Debug\Libro.dll
+C:\Users\LUISZERPA\Desktop\Programacion\C# y .Net\Guadalupe\Libro\obj\Debug\Libro.pdb
